@@ -13,6 +13,7 @@
 		0B5B06A72A4BEE1800A324A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B5B06A52A4BEE1800A324A9 /* Main.storyboard */; };
 		0B5B06A92A4BEE1C00A324A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B5B06A82A4BEE1C00A324A9 /* Assets.xcassets */; };
 		0B5B06AC2A4BEE1C00A324A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B5B06AA2A4BEE1C00A324A9 /* LaunchScreen.storyboard */; };
+		0B5B06B42A4BF26D00A324A9 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5B06B32A4BF26D00A324A9 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0B5B06A82A4BEE1C00A324A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B5B06AB2A4BEE1C00A324A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B5B06AD2A4BEE1C00A324A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B5B06B32A4BF26D00A324A9 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0B5B069F2A4BEE1800A324A9 /* AppDelegate.swift */,
 				0B5B06A12A4BEE1800A324A9 /* SceneDelegate.swift */,
 				0B5B06A32A4BEE1800A324A9 /* ViewController.swift */,
+				0B5B06B32A4BF26D00A324A9 /* CustomCollectionViewCell.swift */,
 				0B5B06A52A4BEE1800A324A9 /* Main.storyboard */,
 				0B5B06A82A4BEE1C00A324A9 /* Assets.xcassets */,
 				0B5B06AA2A4BEE1C00A324A9 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0B5B06A42A4BEE1800A324A9 /* ViewController.swift in Sources */,
 				0B5B06A02A4BEE1800A324A9 /* AppDelegate.swift in Sources */,
 				0B5B06A22A4BEE1800A324A9 /* SceneDelegate.swift in Sources */,
+				0B5B06B42A4BF26D00A324A9 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
